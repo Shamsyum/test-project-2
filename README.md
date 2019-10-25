@@ -30,9 +30,9 @@ trying to make nested list
 
 
 1. im the first 
-   -one
-   -two
-   -three
+ -one
+ -two
+ -three
 2. im the second
 3. im the third
 
