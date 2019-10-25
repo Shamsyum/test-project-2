@@ -6,7 +6,7 @@ Repo, to practice the process of updating remote repo with local repo. OR
 ~~This is used for mistake~~
 
 **to bold**
-* to italic *
+*to italic*
 **to bold and _italic_**
 
 to reach my github account [click here](https://github.com/Shamsyum)
@@ -39,7 +39,7 @@ trying to make nested list
 
 > this is the quoting text
 
-###Lets make a task list
-- [x]this
-- []this
-- []this
+### Lets make a task list
+[x]this
+[]this
+[]this
